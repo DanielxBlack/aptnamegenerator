@@ -9,7 +9,7 @@ def createAPTname():
     animal = open("animallist.txt").read().splitlines()
     theAnimal = random.choice(animal)
     aptName = f"{theAdjective} {theAnimal}"
-    print(f'Your APT name is "{aptName}." Congratulations! You\'re in the big leagues now!')
+    print(f'Your APT name is "{aptName}" -- congratulations! You\'re in the big leagues now!')
 
 
 createAPTname()
