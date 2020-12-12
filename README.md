@@ -19,6 +19,10 @@ python3 aptnamegenerator.py
 Your APT name is "Sticky Blobfish" -- congratulations! You're in the big leagues now!
 ```
 
+```
+python3 aptnamegenerator.py
+Your APT name is "Harmless Puffin" -- congratulations! You're in the big leagues now!
+```
 
 ## Credits
 
