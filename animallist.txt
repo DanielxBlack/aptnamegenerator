@@ -112,7 +112,7 @@ Border Collie
 Border Terrier
 Bornean Orang-utan
 Borneo Elephant
-Boston Terrier: Complete Pet Guide
+Boston Terrier
 Bottlenose Dolphin
 Bowhead Whale
 Boxer Dog
@@ -254,7 +254,8 @@ Fishing Cat
 Flamingo
 Flat Coat Retriever
 Flounder
-Fluke Fish (summer flounder)
+Fluke Fish
+Summer Flounder
 Fly
 Flying Squirrel
 Fossa
@@ -290,7 +291,7 @@ Goblin Shark
 Golden Lion Tamarin
 Golden Masked Owl
 Golden Oriole
-Golden Retriever Complete Pet Guide
+Golden Retriever
 Golden-Crowned Flying Fox
 Goose
 Gopher
@@ -352,7 +353,7 @@ Indian Star Tortoise
 Indochinese Tiger
 Indri
 Insect
-Irish Setter Complete Pet Guide
+Irish Setter
 Irish WolfHound
 Jack Russel
 Jackal
@@ -377,7 +378,7 @@ Koala
 Komodo Dragon
 Krill
 Kudu
-Labradoodle – The Complete Guide For Owners
+Labradoodle
 Labrador Retriever
 Ladybug
 Lamprey
@@ -639,7 +640,7 @@ Water Buffalo
 Water Dragon
 Water Vole
 Weasel
-Welsh Corgi: The Complete Pet Guide
+Welsh Corgi
 West Highland Terrier
 Western Gorilla
 Western Lowland Gorilla
