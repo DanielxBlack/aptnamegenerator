@@ -19,10 +19,6 @@ python3 aptnamegenerator.py
 Your APT name is "Sticky Blobfish" -- congratulations! You're in the big leagues now!
 ```
 
-```
-
-```
-
 
 ## Credits
 
